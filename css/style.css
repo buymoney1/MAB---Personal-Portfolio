@@ -983,6 +983,10 @@ img {
   -webkit-text-fill-color: transparent;
  }
 
+ .w-100{
+  width: 100%;
+ }
+
 .theme{
   right: -.2rem;
   border-radius: 5px;
